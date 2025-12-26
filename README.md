@@ -74,7 +74,7 @@
 # 📝 Feedback:
 
 I’d love to hear from you!
-<br> If you encounter any [Issues](https://github.com/rasenshuriken12/The_Conquerer/issues), or have [Suggestions](Suggestions) for improvements.
+<br> If you encounter any [Issues](https://github.com/rasenshuriken12/My_Projects/issues), or have [Suggestions](Suggestions) for improvements.
 
 ---
 
