@@ -56,8 +56,8 @@
    
 | No. | Contributions | No. | Contributions |
 |--|--|--|--|
-| 2. | [DailyCode](https://github.com/rasenshuriken12/DailyCode/commits?author=rasenshuriken12) |
-| 1. | [pyzx](https://github.com/rasenshuriken12/pyzx-/commits?author=rasenshuriken12) | 
+| 2. | [DailyCode](https://github.com/ezabhishek1/DailyCode/commits?author=rasenshuriken12) |
+| 1. | [pyzx](https://github.com/q-sip/pyzx-/commits?author=rasenshuriken12) | 
 
 </table>
 </tr></td>
