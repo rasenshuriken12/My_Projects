@@ -49,6 +49,21 @@
 
 ---
 
+# 🏗️ My Journey to Open Source
+
+<table>
+<tr><td>
+   
+| No. | Contributions | No. | Contributions |
+|--|--|--|--|
+| 2. | [DailyCode](https://github.com/rasenshuriken12/DailyCode/commits?author=rasenshuriken12) |
+| 1. | [pyzx](https://github.com/rasenshuriken12/pyzx-/commits?author=rasenshuriken12) | 
+
+</table>
+</tr></td>
+
+---
+
 # ⏳ My DSA Journey 
 
 <table>
